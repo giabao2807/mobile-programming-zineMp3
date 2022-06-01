@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Year3/Semester2/LTDĐ/mobile-programming-zineMp3/app/src/main/res/layout/activity_add_my_album.xml" value="0.25" />
+        <entry key="..\:/Year3/Semester2/LTDĐ/mobile-programming-zineMp3/app/src/main/res/layout/activity_my_music_store.xml" value="0.25" />
+        <entry key="..\:/Year3/Semester2/LTDĐ/mobile-programming-zineMp3/app/src/main/res/layout/activity_select_album_to_add_song.xml" value="0.25" />
+        <entry key="..\:/Year3/Semester2/LTDĐ/mobile-programming-zineMp3/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Year3/Semester2/LTDĐ/mobile-programming-zineMp3/app/src/main/res/layout/layout_navigation_header.xml" value="0.25" />
+        <entry key="..\:/Year3/Semester2/LTDĐ/mobile-programming-zineMp3/app/src/main/res/menu/menu_bottom_search.xml" value="0.25" />
         <entry key="app/src/main/res/drawable-v24/bg_button.xml" value="0.1" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_add_my_album.xml" value="0.1" />
