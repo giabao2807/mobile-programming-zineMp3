@@ -17,6 +17,13 @@
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
         <entry key="app/src/main/res/layout/dialog_more_option.xml" value="0.1" />
         <entry key="app/src/main/res/layout/dialog_option_album.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_my_album.xml" value="0.1408514492753623" />
+        <entry key="app/src/main/res/layout/fragment_my_artists.xml" value="0.1408514492753623" />
+        <entry key="app/src/main/res/layout/fragment_my_favorite_songs.xml" value="0.1408514492753623" />
+        <entry key="app/src/main/res/layout/fragment_my_music.xml" value="0.1408514492753623" />
+        <entry key="app/src/main/res/layout/fragment_my_songs.xml" value="0.1408514492753623" />
+        <entry key="app/src/main/res/layout/fragment_search_my_album.xml" value="0.1408514492753623" />
+        <entry key="app/src/main/res/layout/fragment_search_my_artist.xml" value="0.1408514492753623" />
         <entry key="app/src/main/res/layout/item_song_of_artist_onl.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_song_online.xml" value="0.1" />
         <entry key="app/src/main/res/layout/layout_navigation_header.xml" value="0.1" />
