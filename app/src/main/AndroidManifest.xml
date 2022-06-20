@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.zinemp3">
+    package="com.example.jingmb3">
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -16,81 +16,81 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JingMB3" >
         <activity
-            android:name=".view.online.activity.SongOfArtistOnl"
+            android:name="com.example.jingmb3.view.online.activity.SongOfArtistOnl"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppFullScreenTheme"/>
         <activity
-            android:name=".view.online.activity.SongOfAlbumOnl"
+            android:name="com.example.jingmb3.view.online.activity.SongOfAlbumOnl"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppFullScreenTheme" />
         <activity
-            android:name=".view.online.activity.playSong_Online"
+            android:name="com.example.jingmb3.view.online.activity.playSong_Online"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppFullScreenTheme" />
         <activity
-            android:name=".view.online.activity.SearchOnline"
+            android:name="com.example.jingmb3.view.online.activity.SearchOnline"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppFullScreenTheme" />
         <activity
-            android:name=".view.offline.activity.EditMyAlbum"
+            android:name="com.example.jingmb3.view.offline.activity.EditMyAlbum"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppFullScreenTheme" />
         <activity
-            android:name=".view.offline.activity.SongOfMyArtist"
+            android:name="com.example.jingmb3.view.offline.activity.SongOfMyArtist"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppFullScreenTheme" />
         <activity
-            android:name=".view.offline.activity.EditMySong"
+            android:name="com.example.jingmb3.view.offline.activity.EditMySong"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppFullScreenTheme" />
         <activity
-            android:name=".view.offline.activity.SelectAlbumToAddSong"
+            android:name="com.example.jingmb3.view.offline.activity.SelectAlbumToAddSong"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppFullScreenTheme" />
         <activity
-            android:name=".view.offline.activity.SongsOfAlbum"
+            android:name="com.example.jingmb3.view.offline.activity.SongsOfAlbum"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppFullScreenTheme" />
         <activity
-            android:name=".view.offline.activity.AddMyAlbum"
+            android:name="com.example.jingmb3.view.offline.activity.AddMyAlbum"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppFullScreenTheme" />
         <activity
-            android:name=".view.offline.activity.MyMusicStore"
+            android:name="com.example.jingmb3.view.offline.activity.MyMusicStore"
             android:exported="true"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".view.offline.activity.AddMySong"
+            android:name="com.example.jingmb3.view.offline.activity.AddMySong"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppFullScreenTheme" />
         <activity
-            android:name=".view.offline.activity.PlayerSong"
+            android:name="com.example.jingmb3.view.offline.activity.PlayerSong"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppFullScreenTheme" />
         <activity
-            android:name=".view.offline.activity.Search"
+            android:name="com.example.jingmb3.view.offline.activity.Search"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppFullScreenTheme" />
         <activity
-            android:name=".view.activity.MainActivity"
+            android:name="com.example.jingmb3.view.activity.MainActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppFullScreenTheme" />
         <activity
-            android:name=".view.activity.SplashScreen"
+            android:name="com.example.jingmb3.view.activity.SplashScreen"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppFullScreenTheme" >

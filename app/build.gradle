@@ -5,12 +5,12 @@ plugins {
 }
 
 android {
-    compileSdkVersion 28
+    compileSdk 31
 
     defaultConfig {
-        applicationId "com.example.zinemp3"
+        applicationId "com.example.jingmb3"
         minSdk 21
-        targetSdk 32
+        targetSdk 31
         versionCode 1
         versionName "1.0"
 
