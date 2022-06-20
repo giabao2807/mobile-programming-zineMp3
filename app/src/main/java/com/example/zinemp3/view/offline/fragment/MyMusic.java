@@ -5,6 +5,11 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.media.MediaPlayer;
 import android.os.Bundle;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
+
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -12,18 +17,15 @@ import android.view.animation.Animation;
 import android.view.animation.LinearInterpolator;
 import android.view.animation.RotateAnimation;
 
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-import androidx.fragment.app.Fragment;
-
 import com.example.zinemp3.R;
 import com.example.zinemp3.databinding.FragmentMyMusicBinding;
 import com.example.zinemp3.model.offline.MyMediaPlayer;
 import com.example.zinemp3.model.offline.MySongObject;
 import com.example.zinemp3.model.offline.MySongsDatabase;
 import com.example.zinemp3.model.online.MediaOnline;
-import com.example.zinemp3.view.activity.adapter.MyMusicViewPagerAdapter;
+import com.example.zinemp3.view.activity.LoadingDialog;
 import com.example.zinemp3.view.offline.activity.PlayerSong;
+import com.example.zinemp3.view.activity.adapter.MyMusicViewPagerAdapter;
 import com.google.android.material.tabs.TabLayoutMediator;
 
 import java.util.ArrayList;
