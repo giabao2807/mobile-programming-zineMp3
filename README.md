@@ -20,7 +20,22 @@
 ## Link:
 - Firebase: https://console.firebase.google.com/project/musicupload-7dde0/overview
 - Jira: https://vietdev.atlassian.net/jira/software/projects/JIN/boards/6
-- Link download:
+- Link download: https://drive.google.com/file/d/1DzOPAfdH-EAYoXf12H9Cf1Cruag9JvkM/view?usp=sharing
+
+## Demo pictures:
+
+- Activity play song:
+  <img src="https://res.cloudinary.com/boninguci/image/upload/v1656254554/moble-jingmb3/289517114_583889726431108_3809052648193822106_n_c3zbgq.png"/>
+- Activity list music:
+  <img src="https://res.cloudinary.com/boninguci/image/upload/v1656254550/moble-jingmb3/289621510_1101211487272759_7301413797099047777_n_nqlsz0.png"/>
+- Activity for artist: 
+  <img src="https://res.cloudinary.com/boninguci/image/upload/v1656254550/moble-jingmb3/289767465_1168239803737388_4714397838833397284_n_jvfg5o.png"/>
+- Activity for artist's musics:
+  <img src="https://res.cloudinary.com/boninguci/image/upload/v1656254550/moble-jingmb3/289748563_1519408571844579_1380264026970536150_n_fzpqs5.png"/>
+- Activity for album: 
+  <img src="https://res.cloudinary.com/boninguci/image/upload/v1656254550/moble-jingmb3/289563130_339573641516807_8990313356227792188_n_xjoxuk.png"/>
+- Activity for album detail: 
+  <img src="https://res.cloudinary.com/boninguci/image/upload/v1656254550/moble-jingmb3/289563130_339573641516807_8990313356227792188_n_xjoxuk.png"/>
 
 
 
